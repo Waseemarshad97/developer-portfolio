@@ -21,7 +21,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: "wassearshad97",
+  githubUserName: "waseemarshad97",
 };
 
 export const contact = {};
@@ -327,8 +327,8 @@ export const seoData: SEODataType = {
   title: "Waseem Arshad",
   description: "A passionate Full Stack Web Developer and a Project Manager.",
   author: "Waseem Arshad",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1waseem100.vercel.app",
+  image: "https://avatars.githubusercontent.com/u/53007599?s=400&u=e523633a9b096396748fd8d647a2efb792db7838&v=4",
+  url: "https://portfolio-7waseem777.vercel.app",
   keywords: [
     "waseem",
     "Waseem Arshad",
