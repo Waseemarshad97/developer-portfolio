@@ -69,6 +69,8 @@ export type ExperienceType = {
   date: string;
   desc: string;
   descBullets?: string[];
+  project: string;
+  url:string;
 };
 
 // * PROJECT SECTION
