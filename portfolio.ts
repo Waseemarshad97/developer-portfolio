@@ -15,9 +15,9 @@ export const greetings: GreetingsType = {
   name: "Waseem Arshad",
   title: "Hi all, I'm Waseem",
   description:
-    "I'm passionate Full Stack web developer with 3 years of experience in developing applications with Javascript technologies along with mongoDB and postgreSQL. Reinforced with excellent project management skills & knowledge in DSA. I had led development teams of freelance developers and have experience working in early start up’s thus learning skills in business requirement analysis & transforming it in to technical solutions. I’m a passionate tech enthusiast with innate ability to create & manage software products & teams.",
+    "Dedicated and results-driven Software Engineer with three years of hands-on experience in full-stack web development.Proven track record of delivering high-quality software solutions while adapting to evolving technologies and industry best practices. Passionate about creating innovative, scalable, and user-centric applications to solvereal-world problems. Seeking challenging tech developer opportunities in vision driven environments to contribute my expertise and drive technological advancements.",
   resumeLink:
-    "https://drive.google.com/file/d/1_oXqO7vOPFMQgVr8OjwsYjMZPrGfU7lb/view?usp=sharing",
+    "https://drive.google.com/file/d/18tDR6wrBrCa24GRh4XFgEcQAbR2I6oJk/view?usp=sharing",
 };
 
 export const openSource = {
@@ -208,21 +208,21 @@ export const educationInfo: EducationType[] = [
     schoolName: "Middlesex University, London",
     subHeader: "Master of Arts in International Business Managment",
     duration: "January 2023 - January 2024",
-    desc: "Participated in the research and study of different managment constrains and issues in MNE's across the globe.",
+    desc: "Participated in the research and study of different managment constrains and issues in MNE's across the globe. Undergone a strategic business managment module to streamline decision making skills in a real time environment.",
     // grade: "First Class",
   },
   {
     schoolName: "PRIST University, India",
     subHeader: "Bachelor of Technology in Computer Science Engineering",
     duration: "September 2017 - April 2021",
-    desc: "Participated in the research and development of Full stack projects.",
+    desc: "Participated in the research and development of projects. Led team to complete the project in the stipulated time and took initiative and leadership in presenting the project before the deadline.",
     grade: "First Class",
   },
   {
     schoolName: "St.Joseph's engish school, India",
     subHeader: "A level in Science & Maths",
     duration: "September 2014 - june 2016",
-    desc: "Partpicipated in leadership roles and public speaking events",
+    desc: "Partpicipated in coordinating events and public speaking",
     grade: "67%",
   },
   {
@@ -270,10 +270,20 @@ export const experience: ExperienceType[] = [
     company: "Byjus - Think & Learn Pvt.Ltd",
     companyLogo: "https://pbs.twimg.com/media/Es_vWIhUUAMrY3n?format=jpg&name=large",
     date: "October 2021 - January 2023",
-    desc: "Worked as a Full stack developer.Implemented projects following agile methodology.Working in a team environment collaborating with security, UI/UX, devops, QA to optimize and scale the product.Responsible for end to end development Including data modelling, schema design and DB management, creating API endpoints & Frontend integration.",
+    desc: "Worked as a Full stack developer.Implemented projects following agile methodology by working in a team environment collaborating with security, UI/UX, devops, QA to optimize and scale the products.Responsible for end to end development including data modelling, schema design and DB management.",
     project:
       "Byjus – Customer Management System, Byjus- wallet (Included receiving and sending transactions, logging all transactions, handling failure cases, cron jobs etc.). Byjus Gift Cards, Byjus onboarding form for ngos (uploading documents, integrating digital signature etc). Byjus Parent Dashboard",
     url: "https://one-view.byjus.com",
+  },
+  {
+    role: "Full stack Developer",
+    company: "CodeQubes Technologies",
+    companyLogo: "https://cdn.wikirby.com/2/21/KPR_Code_Cube_artwork.png",
+    date: "October 2020 - Present",
+    desc: "This is a group of freelance developers across the globe. I took responsbility from requirement gathering from the client to successfully delivering the product making sure both the client and server side are up and running in production",
+    project:
+      "R3 Factory- Eco-warrier portal",
+    url: "https://ecowarrior.r3factory.com",
   },
 ];
 
@@ -308,14 +318,14 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'Akbar Ali',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'It has been really inspiring to work with waseem. he would effectively grab the thought of the client and take leadership in implementing the project very professionally',
   },
   {
-    name: 'John Smith',
+    name: 'Abdul Salim',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'I wanted to take a moment to express my appreciation and admiration for the outstanding work you have consistently delivered as a software engineer. Your dedication, technical expertise, and strong work ethic have truly made a significant impact on our projects and the entire team.',
   },
 ];
 
@@ -327,7 +337,7 @@ export const seoData: SEODataType = {
   title: "Waseem Arshad",
   description: "A passionate Full Stack Web Developer and a Project Manager.",
   author: "Waseem Arshad",
-  image: "https://avatars.githubusercontent.com/u/53007599?s=400&u=e523633a9b096396748fd8d647a2efb792db7838&v=4",
+  image: "https://avatars.githubusercontent.com/u/53007599?s=400&u=cb4dc8745a72e8b8f646c7fa051f93a304529e5e&v=4",
   url: "https://portfolio-7waseem777.vercel.app",
   keywords: [
     "waseem",
