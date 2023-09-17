@@ -208,7 +208,7 @@ export const educationInfo: EducationType[] = [
     schoolName: "Middlesex University, London",
     subHeader: "Master of Arts in International Business Managment",
     duration: "January 2023 - January 2024",
-    desc: "Participated in the research and study of different managment constrains and issues in MNE's across the globe. Undergone a strategic business managment module to streamline decision making skills in a real time environment.",
+    desc: "Participated in the research and study of different management constraints and issues in MNE's across the globe. Undergone a strategic business management module to streamline decision making skills in a real time environment.",
     // grade: "First Class",
   },
   {
