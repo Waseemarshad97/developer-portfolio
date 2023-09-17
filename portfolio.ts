@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: "Waseem Arshad",
   title: "Hi all, I'm Waseem",
   description:
-    "Dedicated and results-driven Software Engineer with three years of hands-on experience in full-stack web development.Proven track record of delivering high-quality software solutions while adapting to evolving technologies and industry best practices. Passionate about creating innovative, scalable, and user-centric applications to solvereal-world problems. Seeking challenging tech developer opportunities in vision driven environments to contribute my expertise and drive technological advancements.",
+    "Dedicated and results-driven Software Engineer with three years of hands-on experience in full-stack web development.Proven track record of delivering high-quality software solutions while adapting to evolving technologies and industry best practices. Passionate about creating innovative, scalable, and user-centric applications to solve real-world problems. Seeking challenging tech developer opportunities in vision driven environments to contribute my expertise and drive technological advancements.",
   resumeLink:
     "https://drive.google.com/file/d/18tDR6wrBrCa24GRh4XFgEcQAbR2I6oJk/view?usp=sharing",
 };
